@@ -42,7 +42,7 @@ h2 {
 
 section {
     padding-top: 70px;
-    background-color: rgb(34, 29, 29);
+    background-color: rgb(19, 16, 16);
     padding-bottom: 50px;
 }
 
@@ -62,8 +62,8 @@ footer {
     background-color: rgba(24, 39, 33, 0.952);
     padding-top: 10px;
     padding-bottom: 30px;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin-left: 12px;
+    margin-right: 12px;
 }
 
 h6 {
